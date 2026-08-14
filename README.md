@@ -743,6 +743,6 @@ pip install -r requirements.txt
 
 ---
 
-**Last Updated**: 2024-03-26  
+**Last Updated**: 2026-08-14  
 **Author**: Khubaib Sattar (khubainsattar@gmail.com)  
 **Version**: 1.0.0
